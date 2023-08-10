@@ -61,4 +61,4 @@ void ExibirOpcoesDoMenu()
         Console.WriteLine("Opção inválida");
     }
 }
-//ExibirOpcoesDoMenu();
+ExibirOpcoesDoMenu();
