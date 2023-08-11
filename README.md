@@ -1,4 +1,4 @@
-# Projeto ScreenSound
+# Projeto ScreenSound 1.0
 
 O **ScreenSound** é um sistema de cadastro de bandas, músicas e álbuns desenvolvido como parte de um curso de Programação Orientada a Objetos (POO) com C# em colaboração com a **Alura**. Este projeto tem como objetivo permitir que os usuários cadastrem informações detalhadas sobre suas bandas musicais favoritas, suas músicas e álbuns. Além disso, oferece a capacidade única de avaliar tanto os álbuns quanto as bandas, proporcionando uma visão abrangente do universo musical.
 
